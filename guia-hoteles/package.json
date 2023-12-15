@@ -1,7 +1,7 @@
 {
-  "name": "disenando-paginas-bootstrap5",
+  "name": "guia-hoteles",
   "version": "1.0.0",
-  "description": "Curso de la universidad Austral, Diseñando Pagínas Web con Bootstrap 5",
+  "description": "Curso Bootstrap 5, Universidad Austral",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,9 +11,9 @@
     "url": "git+ssh://git@github.com/manuelparra/disenando-paginas-bootstrap5.git"
   },
   "keywords": [
-    "Bootstarp",
+    "Bootstrap",
     "5",
-    "Web",
+    "web",
     "HTML",
     "JavaScript"
   ],
