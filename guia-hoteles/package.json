@@ -4,6 +4,7 @@
   "description": "Curso Bootstrap 5, Universidad Austral",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
