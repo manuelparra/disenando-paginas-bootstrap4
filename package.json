@@ -1,0 +1,26 @@
+{
+  "name": "disenando-paginas-bootstrap5",
+  "version": "1.0.0",
+  "description": "Curso de la universidad Austral, Diseñando Pagínas Web con Bootstrap 5",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/manuelparra/disenando-paginas-bootstrap5.git"
+  },
+  "keywords": [
+    "Bootstarp",
+    "5",
+    "Web",
+    "HTML",
+    "JavaScript"
+  ],
+  "author": "Manuel Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelparra/disenando-paginas-bootstrap5/issues"
+  },
+  "homepage": "https://github.com/manuelparra/disenando-paginas-bootstrap5#readme"
+}
